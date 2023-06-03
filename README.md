@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Horlafundz
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning how to be an internet coder
-- 💞️ I’m looking to collaborate on any kind code cracking 
+- 💞️ I’m looking to collaborate on any kind of code cracking 
 - 📫 How to reach me slizzylukaku@gmail.com
 
 <!---
